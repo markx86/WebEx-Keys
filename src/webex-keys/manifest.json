@@ -1,0 +1,23 @@
+{
+
+    "manifest_version": 2,
+    "name": "WebEx Keys",
+    "version": "1.0",
+  
+    "description": "Add basic keyboard controls to WebEx's video player",
+  
+    "icons": {
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.webex.com/*"],
+        "js": [
+          "main.js"
+        ]
+      }
+    ]
+  
+  }
