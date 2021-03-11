@@ -3,8 +3,10 @@
     "manifest_version": 2,
     "name": "WebEx Keys",
     "version": "1.0",
+	"author": "MadMark",
+	"homepage_url": "https://github.com/SkrapeProjects/WebEx-Keys",
   
-    "description": "Add basic keyboard controls to WebEx's video player",
+    "description": "Add basic keyboard controls to WebEx's video player.",
   
     "icons": {
       "48": "icons/icon48.png",
