@@ -6,7 +6,7 @@
 	"author": "SkrapeProjects",
 	"homepage_url": "https://github.com/SkrapeProjects/WebEx-Keys",
   
-    "description": "Add basic keyboard controls to WebEx's video player.",
+    "description": "Add basic keyboard controls to WebEx's video player. Instructions can be found at https://github.com/SkrapeProjects/WebEx-Keys/blob/main/README.md",
   
     "icons": {
       "48": "icons/icon48.png",
