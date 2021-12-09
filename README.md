@@ -12,3 +12,5 @@
 | &darr;   | Decrease playback speed     |
 | &rarr;   | Fast forward 10 seconds     |
 | &larr;   | Rewind 10 seconds           |
+| &rtrif;&rtrif; | Fast forward 5 minutes      |
+| &ltrif;&ltrif; | Rewind 5 minutes            |
