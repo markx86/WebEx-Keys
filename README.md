@@ -6,7 +6,7 @@
 ## Available keys
 | Key      | Action                      |
 |----------|-----------------------------|
-| Spacebar | Pause/resume video playback |
+| Spacebar, &rtrif;&Verbar; | Pause/resume video playback |
 | F        | Toggle fullscreen           |
 | &uarr;   | Increase playback speed     |
 | &darr;   | Decrease playback speed     |
