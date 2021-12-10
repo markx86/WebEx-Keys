@@ -1,7 +1,7 @@
 # WebEx-Keys
- An extension that adds keyboard controls to WebEx's video player  
+An extension that adds keyboard controls to WebEx's video player  
  
- ----------
+---
  
 ## Available keys
 | Key      | Action                      |
@@ -14,3 +14,10 @@
 | &larr;   | Rewind 10 seconds           |
 | &rtrif;&rtrif; | Fast forward 5 minutes      |
 | &ltrif;&ltrif; | Rewind 5 minutes            |
+
+---
+
+## Contributors
+
+- **MadMark** ([@SkrapeProjects](https://github.com/SkrapeProjects))
+- **Luigi Masini** ([@LuigiMasini](https://github.com/LuigiMasini))
