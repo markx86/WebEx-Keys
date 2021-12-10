@@ -4,6 +4,7 @@ BUILD_DIR = "build/"
 VER = $(shell awk '/"version"/ {split($$0,a," "); gsub("\"","",a[2]); gsub(",","",a[2]); print a[2]}' src/webex-keys/manifest.json)
 FINAL_NAME = "WebEx-Keys"
 
+.PHONY: default
 default:
 	@echo "Building version ${VER}"
 	@echo "Making build dir..." && mkdir -p "${BUILD_DIR}/wbkeys-${VER}"
