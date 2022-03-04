@@ -19,5 +19,5 @@ An extension that adds keyboard controls to WebEx's video player
 
 ## Contributors
 
-- **MadMark** ([@SkrapeProjects](https://github.com/SkrapeProjects))
+- **MadMark** ([@VolatileMark](https://github.com/VolatileMark))
 - **Luigi Masini** ([@LuigiMasini](https://github.com/LuigiMasini))
